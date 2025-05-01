@@ -51,8 +51,8 @@ For each metal, you’ll be prompted to input:
 
 ---
 
-## ✅ Example Output
-
+## 🧪 Example Output
+```
 Live Gold Price: 3248.0 USD per ounce
 Live Silver Price: 32.381 USD per ounce
 Live Platinum Price: 952.083 USD per ounce
@@ -67,7 +67,7 @@ The current value of 5.0g of platinum is: $153.05
 
 Total value of all metals: $1359.21
 Resell for 15% markup: $1563.09
-
+```
 ---
 
 ## 📁 Project Structure
