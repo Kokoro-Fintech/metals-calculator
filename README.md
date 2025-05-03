@@ -25,7 +25,8 @@ For a more in-depth understanding of the **Metals Calculator** project, includin
 
 ## 📌 Note
 
-Secure API encryption is detailed in the [`demo-for-encrypting-api`](https://github.com/Kokoro-Fintech/demo-for-encrypting-api) repository.
+Coming soon — demonstration of API encryption with macOS Keychain integration.
+<!-- Secure API encryption is detailed in the [`demo-for-encrypting-api`](https://github.com/Kokoro-Fintech/demo-for-encrypting-api) repository. -->
 
 ---
 
