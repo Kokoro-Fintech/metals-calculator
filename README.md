@@ -17,6 +17,12 @@ A Python-based tool that fetches real-time precious metal prices (gold, silver, 
 
 ---
 
+## 📄 Whitepaper
+
+For a more in-depth understanding of the **Metals Calculator** project, including its technical design, potential applications, and future development plans, refer to the [Whitepaper](metals-calculator-whitepaper.pdf).
+
+---
+
 ## 📌 Note
 
 Secure API encryption is detailed in the [`demo-for-encrypting-api`](https://github.com/Kokoro-Fintech/demo-for-encrypting-api) repository.
